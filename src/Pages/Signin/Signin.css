@@ -1,0 +1,25 @@
+.right_side{
+    height: 700px;
+    width: 920px;
+}
+.left_side {
+    height: 980px;
+    width: 1080px;
+    padding: 28px;
+}
+.WelcomeMessage{
+ margin-left: 600px;
+}
+
+.right_side{
+    height: 700px;
+    width: 920px;
+}
+
+.forgot_password{
+   margin-left: 279px;
+}   
+
+.side{
+   margin-left: 20px;
+}
